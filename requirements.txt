@@ -112,7 +112,7 @@ sniffio
 SQLAlchemy                
 sqlparse                  
 starlette                 
-streamlit                 
+streamlit==1.35.0                 
 tenacity                  
 toml                      
 tomlkit                   
