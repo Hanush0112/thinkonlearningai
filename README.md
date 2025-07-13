@@ -41,7 +41,7 @@ To build a lightweight, LLM-powered educational chatbot that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/thinkon-learning-ai.git
+git clone https://github.com/Hanush0112/thinkon-learning-ai.git
 cd thinkon-learning-ai
 ```
 --
