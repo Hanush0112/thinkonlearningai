@@ -63,6 +63,7 @@ Responses are streamed back in real time using Streamlit's st.chat_message() or 
 "Summarize the Industrial Revolution in 100 words."
 
 "Help me prepare for my Python interview."
+
 --
 ## 🔮 Future Enhancements
 🔒 Add user authentication
