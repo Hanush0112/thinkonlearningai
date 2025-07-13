@@ -53,6 +53,7 @@ User input is passed to the model through Langchain's interface.
 The model generates an educational or contextual response.
 
 Responses are streamed back in real time using Streamlit's st.chat_message() or st.write().
+
 --
 ## 🧾 Example Use Cases
 "Explain the concept of gravity to a 10-year-old."
